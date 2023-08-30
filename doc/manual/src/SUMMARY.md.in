@@ -105,6 +105,7 @@
 - [Protocols](protocols/protocols.md)
   - [Serving Tarball Flakes](protocols/tarball-fetcher.md)
   - [Derivation "ATerm" file format](protocols/derivation-aterm.md)
+  - [Flake Schemas](protocols/flake-schemas.md)
 - [Glossary](glossary.md)
 - [Contributing](contributing/contributing.md)
   - [Hacking](contributing/hacking.md)
